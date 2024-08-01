@@ -1,4 +1,4 @@
-module fork_join;
+module fork_join_any;
   initial begin
     fork
       begin
@@ -17,7 +17,7 @@ module fork_join;
         $display("C completed at %0t",$time);
       end
     join_any
-    $display("fork join completed at %0t",$time);
+    $display("fork join any completed at %0t",$time);
   end
 endmodule
 
@@ -27,7 +27,7 @@ A started at 0
 B started at 0
 C started at 0
 A completed at 10
-fork join completed at 10
+fork join any completed at 10
 B completed at 15
 C completed at 20
            V C S   S i m u l a t i o n   R e p o r t 
