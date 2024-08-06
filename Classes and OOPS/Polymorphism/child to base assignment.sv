@@ -17,10 +17,9 @@ module polymorphism;
     base_class ptr;
     childA ctr;
     ctr=new();
-    ptr=ctr;
+    ptr=ctr;//$cast(ctr,ptr)
     ptr.data=100;
     ptr.age=10;
-    //ptr=ctr;
     ptr.display();
   end
 endmodule
