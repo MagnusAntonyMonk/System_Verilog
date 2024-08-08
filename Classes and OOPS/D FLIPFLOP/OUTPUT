@@ -1,0 +1,33 @@
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP2_Full64; Runtime version U-2023.03-SP2_Full64;  Aug  8 00:40 2024
+packet is generated
+packet is generated
+packet is generated
+packet is generated
+d= 0,clk=0 ,rst_n=0,q=0
+Packet received from DUT
+d= 0,clk=1 ,rst_n=1,q=0
+d= 0,clk=0 ,rst_n=0,q=0
+Packet received from DUT
+d= 0,clk=1 ,rst_n=1,q=0
+d= 1,clk=0 ,rst_n=0,q=0
+Packet received from DUT
+d= 1,clk=1 ,rst_n=1,q=1
+d= 1,clk=0 ,rst_n=0,q=1
+Packet received from DUT
+d= 1,clk=1 ,rst_n=1,q=1
+Packet recieved in environment
+d= 1,clk=0 ,rst_n=1,q=1
+d= 1,clk=1 ,rst_n=1,q=1
+d= 1,clk=0 ,rst_n=1,q=1
+d= 1,clk=1 ,rst_n=1,q=1
+d= 1,clk=0 ,rst_n=1,q=1
+d= 1,clk=1 ,rst_n=1,q=1
+d= 1,clk=0 ,rst_n=1,q=1
+d= 1,clk=1 ,rst_n=1,q=1
+$finish called from file "testbench.sv", line 38.
+$finish at simulation time                   80
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 80 ns
+CPU Time:      0.710 seconds;       Data structure size:   0.0Mb
+Thu Aug  8 00:40:51 2024
