@@ -1,0 +1,37 @@
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6578 kB (elbread=459 elab2=5958 kernel=160 sdf=0)
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: packet is generated
+# KERNEL:   a= 0,b=1 ,c=0 sum=1 carry=0
+# KERNEL: packet is generated
+# KERNEL: Packet received
+# KERNEL: Packet received from DUT
+# KERNEL: packet is generated
+# KERNEL: Packet received
+# KERNEL:   a= 1,b=0 ,c=1 sum=0 carry=1
+# KERNEL: packet is generated
+# KERNEL: Packet received
+# KERNEL: Packet received from DUT
+# KERNEL:   a= 0,b=1 ,c=0 sum=1 carry=0
+# KERNEL: packet is generated
+# KERNEL: Packet received
+# KERNEL:   a= 1,b=0 ,c=1 sum=0 carry=1
+# KERNEL: packet is generated
+# KERNEL: Packet received
+# KERNEL: Packet received from DUT
+# KERNEL:   a= 0,b=0 ,c=0 sum=0 carry=0
+# KERNEL: packet is generated
+# KERNEL: Packet received
+# KERNEL:   a= 1,b=0 ,c=1 sum=0 carry=1
+# KERNEL: packet is generated
+# KERNEL: Packet received
+# KERNEL: Packet received from DUT
+# KERNEL: Packet received
+# KERNEL: Packet received from DUT
+# KERNEL: Packet received from DUT
+# KERNEL: Packet received from DUT
+# KERNEL: Packet received from DUT
+# KERNEL: Packet recieved in environment
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
