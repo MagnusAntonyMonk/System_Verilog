@@ -1,4 +1,4 @@
-class if_else;
+class if_else_if_else;
   rand bit [7:0] value;
   rand enum {min,min_max, max} degree;
 
