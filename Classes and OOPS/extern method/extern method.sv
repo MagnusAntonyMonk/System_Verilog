@@ -23,3 +23,10 @@ module tb;
     tr.delay();
   end
 endmodule
+
+
+OUTPUT:
+
+data=5
+time=50,id=2
+           V C S   S i m u l a t i o n   R e p o r t 
